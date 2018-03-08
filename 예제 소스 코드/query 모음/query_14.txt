@@ -1,0 +1,2 @@
+http://whois.kisa.or.kr/openapi/whois.jsp?query=202.30.50.51&key=발급받은키&answer=json
+

@@ -1,0 +1,2 @@
+update play set encrypted ='', decrypted = ''
+where original = 'secret'

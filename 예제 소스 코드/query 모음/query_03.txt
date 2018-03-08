@@ -1,0 +1,12 @@
+insert into supermarket
+values (1, '과일', '자몽', '마트', 1500)
+-- 슈퍼마켓 테이블(supermarket)안에(into) 값들(1,'과일', '마트', '자몽',3000)을 넣음(insert)
+
+insert into supermarket
+values (2, '음료수', '망고주스', '편의점', 1000)
+ 
+insert into supermarket
+values (3, '음료수', '식혜', '시장', 1000)
+ 
+insert into supermarket
+values (4, '과자', '머랭', '조각케익가게', 3000)

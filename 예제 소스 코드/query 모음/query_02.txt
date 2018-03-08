@@ -1,0 +1,3 @@
+select * from supermarket(nolock)
+-- 슈퍼마켓 테이블(supermarket) 로 부터(from) 모든걸(*) 가져옵니다.(select) 
+-- 다른 쿼리와는 부딛치지 않는 읽기 모드로(nolock)

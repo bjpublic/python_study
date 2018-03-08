@@ -1,0 +1,20 @@
+CREATE DATABASE mytest;
+
+use mytest;
+
+CREATE TABLE supermarket(
+    Itemno int NULL,
+    Category char(20) NULL,
+    FoodName char(30) NULL,
+    Company char(20) NULL,
+    Price int NULL
+);
+
+insert into supermarket
+values (1, '과일', '자몽', '마트', 1500);
+insert into supermarket
+values (2, '음료수', '망고주스', '편의점', 1000);
+insert into supermarket
+values (3, '음료수', '식혜', '시장', 1000);
+insert into supermarket
+values (4, '과자', '머랭', '조각케익가게', 3000);

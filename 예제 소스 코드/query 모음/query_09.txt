@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[play](
+    [original] [char](30) NULL,
+    [encrypted] [char](200) NULL,
+    [decrypted] [char](30) NULL,
+)

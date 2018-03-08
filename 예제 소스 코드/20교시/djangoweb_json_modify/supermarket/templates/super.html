@@ -1,0 +1,11 @@
+﻿<table border="1" cellpadding="5" cellspacing="5">
+{% for super in supers %}
+   <tr>
+      <td>{{ super.itemno }}</td>
+      <td>{{ super.category }}</td>
+      <td>{{ super.foodname }}</td>
+      <td>{{ super.company }}</td>
+      <td>{{ super.price }}</td>   
+   </tr>
+{% endfor %}
+</table>

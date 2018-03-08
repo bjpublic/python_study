@@ -1,0 +1,1 @@
+insert play values('비밀 문구','','')

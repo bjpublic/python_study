@@ -1,0 +1,48 @@
+<script language="javascript">
+<!--
+    function showMenu(td){
+        td.style.backgroundColor = "#444444";
+        td.style.color="#ffffff";
+    }
+ 
+    function hideMenu(td){
+        td.style.backgroundColor = "#ffffff";
+        td.style.color="#555555";
+    }
+ 
+    function showSubCateMenu(i) {
+        document.getElementById("subCateMenu").style.zIndex = 10000;
+        document.getElementById("subCateMenu").style.display = "";
+    }
+ 
+    function hideSubCateMenu(i) {
+        document.getElementById("subCateMenu").style.display = "none";
+    }
+ 
+//-->
+</script>
+ 
+ 
+<table width="100" border="0" cellpadding="0" cellspacing="0">   
+    <tr>
+        <td align="left" id="mainCate" onmouseover="javascript:showSubCateMenu(); showMenu(this);" 
+onmouseout="javascript:hideSubCateMenu(); hideMenu(this);">
+       
+        <div id="subCateMenu" style="width: 100px; position: absolute; margin-left: 120px; border: 
+3px solid rgb(100, 200, 100); padding: 10px; z-index: 10000; display: none; background: rgb(255, 255, 255);">
+       
+         <table width="100%" border="0" cellspacing="0" cellpadding="0">
+             <tr>
+                 <td>                          
+                     <div style="width:115px;"><a href=“test1">파이</a></div>
+                     <div style="width:115px;"><a href=“test2">머랭</a></div>     
+                 </td>
+             </tr>
+         </table>
+       
+       </div>
+       
+        과자
+        </td>
+    </tr>
+</table>

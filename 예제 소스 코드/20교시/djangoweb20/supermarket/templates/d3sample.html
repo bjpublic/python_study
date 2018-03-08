@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- 그래프 요소들의 스타일을 지정합니다. -->
+<style> 
+body { font: 12px Arial;}
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+ 
+</style>
+<body>
+ 
+ 
+<!-- 라이브러리 로딩. 내부에서 돌리려면 다운받아서 static 폴더에서 읽어와야 할 듯 합니다. -->    
+<script src="http://d3js.org/d3.v3.min.js"></script>
+ 
+<script>
+// 그래프 좌표 공간을 설정 합니다.
+var margin = {top: 30, right: 20, bottom: 30, left: 50},
+    width = 600 - margin.left - margin.right,
+    height = 270 - margin.top - margin.bottom;
+ 
+// 그래프 범위를 설정합니다.
+var x = d3.time.scale().range([0, width]);
+var y = d3.scale.linear().range([height, 0]);
+ 
+// 축을 정의 합니다.
+var xAxis = d3.svg.axis().scale(x)
+    .orient("bottom").ticks(5);
+var yAxis = d3.svg.axis().scale(y)
+    .orient("left").ticks(5);
+ 
+// 그래프 선을 정의 합니다.
+var valueline = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.close); });
+    
+// 캔버스 객체를 생성 합니다.
+var svg = d3.select("body")
+    .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+        .attr("transform", 
+              "translate(" + margin.left + "," + margin.top + ")");
+ 
+// 2017-07-01 식으로 데이터를 해석하게 지정합니다.
+var parseDate = d3.time.format("%Y-%m-%d").parse;
+ 
+// 전달 받은 데이터를 이용해서 그래프를 그립니다.
+var callback = function (data) {
+ 
+   data.forEach(function(d) {
+        d.date = parseDate(d.date);
+        d.close = +d.close;
+    });
+ 
+    // 실 데이터에 맞춰 그래프 범위를 지정합니다.
+    x.domain(d3.extent(data, function(d) { return d.date; }));
+    y.domain([0, d3.max(data, function(d) { return d.close; })]);
+ 
+    // 선을 그립니다.
+    svg.append("path")
+        .attr("class", "line")
+        .attr("d", valueline(data));
+ 
+    // x 축을 그립니다.
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+ 
+    // y 축을 그립니다.
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
+ 
+};
+ 
+ 
+// 장고에서 만든 http://127.0.0.1/data 를 호출하여 json 데이터를 가져와 callback 함수를 호출합니다.
+d3.json("{% url "data" %}",  callback);
+ 
+</script>
+</body>
