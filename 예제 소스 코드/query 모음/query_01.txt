@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[supermarket](
+    [Itemno] [int] NULL,
+    [Category] [char](20) NULL,
+    [FoodName] [char](30) NULL,
+    [Company] [char](20) NULL,
+    [Price] [int] NULL
+)

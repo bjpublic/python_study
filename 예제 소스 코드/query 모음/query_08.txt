@@ -1,0 +1,3 @@
+"Itemno": 1, "Category": "과일", "FoodName": "자몽", "Company": "마트", "Price": 1500
+
+"Itemno": 2, "Category": "음료수", "FoodName": "망고주스", "Company": "편의점", "Price": 1000

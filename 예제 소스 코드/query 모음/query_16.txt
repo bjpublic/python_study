@@ -1,0 +1,10 @@
+use mytest
+go
+ALTER TABLE dbo.supermarket
+   ADD id INT IDENTITY
+ 
+ALTER TABLE dbo.supermarket
+   ADD CONSTRAINT PK_supermarket
+   PRIMARY KEY(id)
+ 
+select * from dbo.supermarket(nolock)

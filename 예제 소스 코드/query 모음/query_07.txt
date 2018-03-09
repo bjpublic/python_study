@@ -1,0 +1,11 @@
+create table supermarket(
+Itemno NUMBER NULL, Category char(20) NULL, FoodName char(30) NULL,
+Company char(20) NULL, Price NUMBER NULL);
+
+insert into supermarket
+values (1, '과일', '자몽', '마트', 1500);
+
+insert into supermarket
+values (2, '음료수', '망고주스', '편의점', 1000);
+
+commit;

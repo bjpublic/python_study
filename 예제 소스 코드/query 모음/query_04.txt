@@ -1,0 +1,11 @@
+-- 과자만 보여줍니다(category = '과자').
+select * from supermarket(nolock) where category = '과자'
+ 
+-- 1000원 이하(price <= 1000) 상품만 보여줍니다.
+select * from supermarket(nolock) where price <= 1000
+ 
+-- 결과 중에 상품이름과, 회사만 보여줍니다.
+select FoodName, Company from supermarket(nolock) 
+ 
+-- 음식이름 가나다 순으로 보여줍니다.
+select * from supermarket(nolock) order by FoodName

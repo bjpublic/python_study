@@ -1,0 +1,1 @@
+c:\"Program Files"\7-Zip\7z a -r -tzip c:\python\code\zipfile\backup_"%DATE:~0,4%%DATE:~5,2%%DATE:~8,2%".zip c:\python\code\source\*.txt c:\python\code\source\*.jpg
