@@ -1,0 +1,983 @@
+링크모음
+
+[0교시]
+[구글 검색시 도움이 되는 몇가지 방법들 ? Laonbud 님의 블로그]
+http://channelofchaos.tistory.com/60
+https://goo.gl/P2dFVx
+
+[구글 검색 고수가 되는 방법, 알아두면 도움이 되는 구글링 Tip! ? 포스코 기업 블로그]
+http://blog.posco.com/1391
+https://goo.gl/KSGa6Y
+
+
+[1교시]
+[Python/파이썬] 리스트(배열) 합계, 산술 평균 구하기; List-Array Sum, Average (Mean) ? mwultong 님의 블로그]
+http://mwultong.blogspot.com/2007/02/python-list-array-sum-average-mean.html
+https://goo.gl/mHHuPq
+
+[[Python] 파이썬 기본내용 정리(2) - 자료구조 - 오늘, 행복하자! 님의 블로그]
+http://felixblog.tistory.com/54
+https://goo.gl/inHcP7
+
+[OOP 에서의 클래스와 인스턴스 개념 - 이야기's G 님의 유튜브]
+https://www.youtube.com/watch?v=8B2Wxks5Sig
+https://goo.gl/SHaNMQ
+
+[우리는 모두 거인의 어깨 위에 서 있다 ? 한겨례]
+http://legacy.www.hani.co.kr/section-009100003/2004/11/009100003200411261636092.html
+https://goo.gl/Dw6jAn
+
+
+[2교시]
+[파이썬 다운로드 링크 ? 파이썬 공식 홈 페이지]
+https://www.python.org/downloads/release/python-364/
+https://goo.gl/Hyvw8C
+
+[JAVA 설치 후, 환경변수(PATH) 설정하는 이유 ? 臥薪嘗膽 님 블로그]
+http://dvjin.tistory.com/4
+https://goo.gl/z43qa1
+
+[29 best python ides of 2018 - slant 사이트]
+https://www.slant.co/topics/366/~best-python-ides
+https://goo.gl/bRQAsE
+
+[클래식 쉘 ? 클래식 쉘 공식 홈페이지]
+http://www.classicshell.net/
+https://goo.gl/qcjf7
+
+[7 Top Python GUI Frameworks for 2017 ? Dice 사이트]
+http://insights.dice.com/2017/08/07/7-top-python-gui-frameworks-for-2017-2/
+https://goo.gl/kzPYC8
+
+[Tkinter vs pyqt vs wxpython ? reddit 사이트]
+https://www.reddit.com/r/learnpython/comments/3pif4k/tkinter_vs_pyqt_vs_wxpython/?
+https://goo.gl/NPT7EK
+
+[wxPython in Python 3.4.1 ? stackoverflow 사이트]
+https://stackoverflow.com/questions/28029760/wxpython-in-python-3-4-1
+https://goo.gl/th3Ks2
+
+[How to install wxPython phoenix for python 3.6 ? stackoverflow 사이트]
+https://stackoverflow.com/questions/42007164/how-to-install-wxpython-phoenix-for-python-3-6
+https://goo.gl/aCgwUK
+
+[Download the latest version for Windows ? 파이썬 공식 홈페이지]
+https://www.python.org/downloads/?
+https://goo.gl/zD9zUP
+
+[Python의 미래, Python 3로 넘어가기 ? tech.ssut 님의 블로그]
+https://b.ssut.me/python%ec%9d%98-%eb%af%b8%eb%9e%98-python-3%ec%9c%bc%eb%a1%9c-%eb%84%98%ec%96%b4%ea%b0%80%ea%b8%b0/
+https://goo.gl/8vR67K
+
+[python을 익히려 하는데, 어느 버전이 좋을까요? ? KLDP 자유게시판]
+https://kldp.org/node/129183?
+https://goo.gl/ix7vEu
+
+[파이썬에서의 한글 인코딩과의 싸움 - Nelops님의 블로그]
+http://ifyourfriendishacker.tistory.com/5
+https://goo.gl/uVUWUq
+
+
+[3교시]
+[Connecting python 3.3 to microsoftsql server 2008 - stackoverflow 사이트]
+https://stackoverflow.com/questions/17411362/connecting-python-3-3-to-microsoft-sql-server-2008
+https://goo.gl/nt25Gd
+
+[python 3.5 using pymssql - stackoverflow 사이트]
+https://stackoverflow.com/questions/33326023/python-3-5-using-pymssql
+https://goo.gl/o693Sp
+
+[ODBC란? - Make it simple. 님의 블로그]
+http://dumaclub.tistory.com/entry/ODBC%EB%9E%80
+https://goo.gl/SmejH6
+
+[AES265 암호화 - donkenzy.com 님의 블로그]
+
+[swinton/AESCipher.py - Github 사이트]
+https://gist.Github.com/swinton/8409454
+https://goo.gl/fDqUrU
+
+[파이썬 튜토리얼, 라이브러리, 레퍼런스]
+https://docs.python.org/3/tutorial/
+https://goo.gl/tLXyCT
+
+https://docs.python.org/3/library/index.html
+https://goo.gl/LjWYVT
+
+https://docs.python.org/3/reference/index.html
+https://goo.gl/zlDkGl
+
+[4교시]
+[MSSQL Server 다운로드 페이지 ? 마이크로소프트 사이트]
+https://www.microsoft.com/ko-kr/sql-server/sql-server-editions-express
+https://goo.gl/rLJD7b
+
+[SSMS 다운로드 페이지 ? 마이크로소프트 사이트] 
+https://docs.microsoft.com/ko-kr/sql/ssms/download-sql-server-management-studio-ssms
+https://goo.gl/t4RKyw
+
+[Can't connect to localhost on SQL Server Express 2012 / 2016 ? stackoverflow 사이트]
+http://stackoverflow.com/questions/12774827/cant-connect-to-localhost-on-sql-server-express-2012-2016
+https://goo.gl/wjKXkY
+
+[SQL Server: CREATE TABLE Statement ? Tech ON THE Net 사이트]
+https://www.techonthenet.com/sql_server/tables/create_table.php
+https://goo.gl/RbryKq
+
+[개발자들의 영원한 숙제, 'NULL' 이야기 ? 슬로워크 블로그]
+http://slowalk.tistory.com/2181
+https://goo.gl/6ZCUCj
+
+[SQL Server: INSERT Statement - Tech ON THE Net 사이트]
+https://www.techonthenet.com/sql_server/insert.php
+https://goo.gl/TRQYa1
+
+[Docs >> Introduction ? pymssql.org사이트]
+http://pymssql.org/en/stable/intro.html
+https://goo.gl/SVbFYy
+
+[Visual C++ 2015 Build Tools ? Visual Studio 사이트]
+http://landinghub.visualstudio.com/visual-cpp-build-tools 
+https://goo.gl/UUwZgk
+
+[Microsoft Visual Studio ? WIKIPEDIA 페이지]
+https://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+https://goo.gl/HZfTY9
+
+[Install pymssql 2.1.3 in Pycharm ? stackoverflow 페이지]
+https://stackoverflow.com/questions/44955927/install-pymssql-2-1-3-in-pycharm
+https://goo.gl/vLXa6m
+
+[Unofficial Windows Binaries for Python Extension Packages - University of California, Irvine. 페이지]
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#pymssql
+https://goo.gl/iG1ma6
+
+[Package Index > wheel > 0.30.0 ? 파이썬 공식 페이지]
+https://pypi.python.org/pypi/wheel
+https://goo.gl/fT8Wld
+
+[Docs ? pymssql examples ? pymssql 공식 페이지]
+http://pymssql.org/en/stable/pymssql_examples.html
+https://goo.gl/X9Hsf2
+
+[Python SQL Driver ? 마이크로소프트 홈 페이지]
+https://docs.microsoft.com/en-us/sql/connect/python/python-driver-for-sql-server
+https://goo.gl/8Wncyu
+
+[SQLite3 ? 파이썬 공식 페이지]
+https://docs.python.org/2/library/sqlite3.html
+https://goo.gl/8Ghx9r
+
+[create table in sqlite only if it doesn’t exist already ? stackoverflow 사이트]
+https://stackoverflow.com/questions/4098008/create-table-in-sqlite-only-if-it-doesnt-exist-already
+https://goo.gl/x2VuiQ
+
+[SQLite - TRUNCATE TABLE Command ? Tutorials Point 사이트]
+https://www.tutorialspoint.com/sqlite/sqlite_truncate_table.htm
+https://goo.gl/8uo5Zx
+
+[DB Browser for SQLite ? 공식 홈페이지]
+http://sqlitebrowser.org/
+
+[Download MySQL Installer ? MySQL 공식 페이지]
+https://dev.mysql.com/downloads/installer/
+https://goo.gl/4GswzM
+
+[pymysql_examples - pymysql 깃허브 사이트]
+https://github.com/PyMySQL/PyMySQL/blob/master/example.py
+https://goo.gl/oHVSYt
+
+[oracle download ? 오라클 공식 사이트]
+http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html
+https://goo.gl/8IBuRg
+
+
+[Using Python With Oracle Database 11g ? 오라클 공식 페이지]
+http://www.oracle.com/technetwork/articles/dsl/python-091105.html
+https://goo.gl/8I8R
+
+[MongoDB Download Center ? MongoDB 홈페이지]
+https://www.mongodb.com/download-center#community
+https://goo.gl/KwXWD4
+
+[robomongo 다운로드 - robomongo홈페이지]
+https://robomongo.org/
+
+[How to get a single value from a pymongo query of a mongodb in python? ? stackoverflow 페이지]
+https://stackoverflow.com/questions/15320221/how-to-get-a-single-value-from-a-pymongo-query-of-a-mongodb-in-[Removing id element from pymongo results - stackoverflow 페이지]
+https://goo.gl/tSNLtZ
+
+[Removing id element from pymongo results - stackoverflow 페이지]
+https://stackoverflow.com/questions/12345387/removing-id-element-from-pymongo-results
+https://goo.gl/6HYHkj
+
+[Python’s range() Function Explained - pythoncentral.io 사이트]
+http://pythoncentral.io/pythons-range-function-explained/
+https://goo.gl/pXgq11
+
+[when-to-use-while-or-for-in-python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/920645/when-to-use-while-or-for-in-python
+https://goo.gl/7kRrbH
+
+[string methods ? 파이썬 공식 사이트]
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://goo.gl/uBQPYA
+
+
+[5교시]
+[swinton/AESCipher.py ? GitHub 사이트]
+https://gist.github.com/swinton/8409454
+https://goo.gl/fDqUrU
+
+[problems with installation pycrypto in python 3.6 ? stackoverflow 사이트]
+https://stackoverflow.com/questions/41813030/problems-with-installation-pycrypto-in-python-3-6
+https://goo.gl/9mTGhk
+
+[Stop using pycrypto. Use pycryptodome instead ? sqreen 사이트]
+https://blog.sqreen.io/stop-using-pycrypto-use-pycryptodome/
+https://goo.gl/nnxmhH
+
+[Compatibility with PyCrypto ? PyCryptodome 홈페이지]
+http://pycryptodome.readthedocs.io/en/latest/src/vs_pycrypto.html
+https://goo.gl/5XRZW4
+
+[Python 3.5 error 'Only byte strings can be passed to C code' ? github 사이트]
+https://github.com/Legrandin/pycryptodome/issues/35
+https://goo.gl/tavUWc
+
+[Precompiled wheel of PyCrypto 2.6.1 for Python 3.6 on Windows 7 x64 ? diaspora 사이트]
+https://diasp.org/posts/25ab68d051f30135c7804986d5cbec7f
+https://goo.gl/fx43a4
+
+[pycrypto-2.6.1-cp36-cp36m-win_amd64.whl ? github 사이트]
+https://github.com/M-O-Z-G/Various-Stuff/blob/master/Python/Wheels/pycrypto-2.6.1-cp36-cp36m-win_amd64.whl
+https://goo.gl/1GLsQQ
+
+[Encrypt & Decrypt using PyCrypto AES 256 From http://stackoverflow.com/a/12525165/119849 - github 페이지]
+https://gist.github.com/swinton/8409454
+https://goo.gl/fDqUrU
+
+[Encrypt & Decrypt using PyCrypto AES 256From http://stackoverflow.com/a/12525165/119849 - github 페이지]
+https://gist.github.com/mguezuraga/257a662a51dcde53a267e838e4d387cd
+https://goo.gl/Gg8vWu
+
+[No module named 'winrandom' when using pycrypto ? stackoverflow 사이트]
+https://stackoverflow.com/questions/24804829/no-module-named-winrandom-when-using-pycrypto
+https://goo.gl/iWYhMD
+
+[Which is more preferable to use in Python: lambda functions or nested functions ('def')? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/134626/which-is-more-preferable-to-use-in-python-lambda-functions-or-nested-functions
+https://goo.gl/jsptRb
+
+
+[6교시]
+[SQL Server: UPDATE Statement ? Tech ON THE NET 사이트]
+https://www.techonthenet.com/sql_server/update.php
+https://goo.gl/97xvmU
+
+
+[7교시]
+[Working with Excel Files in Python ? python-excel.org 사이트]
+http://www.python-excel.org/
+
+[How to install Openpyxl with pip ? stackoverflow 사이트]
+https://stackoverflow.com/questions/38364404/how-to-install-openpyxl-with-pip
+https://goo.gl/khcB2J
+
+[openpyxl - A Python library to read/write Excel 2010 xlsx/xlsm files ? openpyxl 공식 페이지]
+https://openpyxl.readthedocs.io/en/default/
+https://goo.gl/Tjl6Cv
+
+[How can I get column names from a table in SQL Server? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/1054984/how-can-i-get-column-names-from-a-table-in-sql-server
+https://goo.gl/BKmnBg
+
+[Can we increase a lowercase character by one ? stackoverflow 사이트]
+http://stackoverflow.com/questions/11827226/can-we-increase-a-lowercase-character-by-one
+https://goo.gl/W9SJFH
+
+[access one cell ? openpyxl 공식 사이트]
+https://openpyxl.readthedocs.io/en/default/tutorial.html#accessing-one-cell
+https://goo.gl/tdxWHP
+
+
+[7교시 부록]
+[함수란 무엇인가요? ? 해커스쿨]
+http://www.hackerschool.org/Sub_Html/HS_University/BOF/essential/PDF_Files/07.pdf
+https://goo.gl/PBBSK7
+
+[객체지향 프로그래밍¶ - the hitchhiker's guide to python]
+http://python-guide-kr.readthedocs.io/ko/latest/writing/structure.html#object-oriented-programming
+https://goo.gl/YaRHxM
+
+[파이썬에 list가 있는데 array.array는 왜 쓰는 건가요? ? HashCode 사이트]
+http://hashcode.co.kr/questions/1093/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90-list%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-arrayarray%EB%8A%94-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B4%EA%B0%80%EC%9A%94
+https://goo.gl/z9wriE
+
+[Python: Array v. List [duplicate] ? stackoverflow 사이트]
+http://stackoverflow.com/questions/9405322/python-array-v-list
+https://goo.gl/CEqgTR
+
+[Python List append() Method ? tutorialspoint 사이트]
+https://www.tutorialspoint.com/python/list_append.htm
+https://goo.gl/ly0TSP
+
+[Looping over a list in Python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/9138112/looping-over-a-list-in-python
+https://goo.gl/4LECc9
+
+[Is there a way to substring a string in Python? ? stackoverflow 사이트]
+http://stackoverflow.com/questions/663171/is-there-a-way-to-substring-a-string-in-python
+https://goo.gl/FhCrS7
+
+[Escape Characters ? 파이썬 공식 페이지]
+http://python-reference.readthedocs.io/en/latest/docs/str/escapes.html
+https://goo.gl/U3dNZs
+
+
+[8교시]
+[The Regulator ? sourceforge 사이트]
+https://sourceforge.net/projects/regulator/
+https://goo.gl/7DorFu
+
+[re ? Regular expression operations ? 파이썬 공식 페이지]
+https://docs.python.org/2/library/re.html
+https://goo.gl/92A0VR
+
+[How do I search for a pattern within a text file using Python combining regex & string/file operations and store instances of the pattern?? stackoverflow 사이트]
+https://stackoverflow.com/questions/10477294/how-do-i-search-for-a-pattern-within-a-text-file-using-python-combining-regex
+https://goo.gl/7JTXNw
+
+[re ? Regular expression operations ? 파이썬 공식 페이지]
+https://docs.python.org/2/library/re.html
+https://goo.gl/92A0VR
+
+[What's the difference between groups and group in the re module? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/9347950/whats-the-difference-between-groups-and-group-in-the-re-module
+https://goo.gl/11hHZW
+
+[견월망지(見月望指, 見月忘指) - 21세기 문맹퇴치 블로그]
+http://m.blog.naver.com/sukbongcho/10157104127
+https://goo.gl/z9EFDW
+
+
+[9교시]
+[Using wxPython to get input from user ? stackoverflow 사이트]
+https://stackoverflow.com/questions/18532827/using-wxpython-to-get-input-from-user
+https://goo.gl/KbRuVj
+
+[Class Summary ? wxPython 홈페이지]
+https://wxpython.org/Phoenix/docs/html/wx.1moduleindex.html
+https://goo.gl/KbRuVj
+
+
+[10교시]
+[WHOIS ? 한국인터넷진흥원(KISA) 사이트]
+https://whois.kisa.or.kr/kor/main.jsp
+https://goo.gl/E9wBGq
+
+[WHOIS OpenAPI 사용안내 ? 한국인터넷진흥원(KISA) 사이트] https://whois.kisa.or.kr/kor/whois/openAPI_KeyCre.jsp
+https://goo.gl/ax3ahX
+
+[fiddler ? 공식 홈]
+http://www.telerik.com/fiddler
+https://goo.gl/QJ59CM
+
+[How do you read a file into a list in Python? [duplicate] ? stackoverflow 페이지]
+https://stackoverflow.com/questions/3925614/how-do-you-read-a-file-into-a-list-in-python
+https://goo.gl/FbdD2H
+
+[Requests: HTTP for Humans ? Request 모듈 홈페이지]
+http://docs.python-requests.org/en/master/
+https://goo.gl/tccRrM
+
+[Parsing JSON responses ? stackoverflow 사이트]
+https://stackoverflow.com/questions/16877422/parsing-json-responses?
+https://goo.gl/U6NEfv
+
+[전역변수에 대해 어떻게 생각하세요? - GpgStudy포럼]
+http://www.gpgstudy.com/forum/viewtopic.php?t=2123
+https://goo.gl/w2C2va
+
+[Why is “except: pass” a bad programming practice? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/21553327/why-is-except-pass-a-bad-programming-practice
+https://goo.gl/YXEldD
+
+[Check if key exists and iterate the JSON array using Python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/24898797/check-if-key-exists-and-iterate-the-json-array-using-python
+https://goo.gl/TNpaAZ
+
+[Global and Local Variables in Python ? GeeksforGeeks 사이트]
+http://www.geeksforgeeks.org/global-local-variables-python/
+https://goo.gl/qQ4ys8
+
+[JSON 개요 ? JSON 공식페이지]
+http://www.json.org/json-ko.html
+
+
+[11교시]
+[구문 분석 ? 위키백과]
+https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%AC%B8_%EB%B6%84%EC%84%9D
+https://goo.gl/HzAiaL
+
+[w3school 사이트]
+https://www.w3schools.com/html/default.asp
+https://goo.gl/xQiE76
+
+[SOAP ? 위키백과 사이트]
+https://ko.wikipedia.org/wiki/SOAP?
+https://goo.gl/wDGA4d
+
+[The Difference Between ID and Class ? CSS-TRICKS 사이트]
+https://css-tricks.com/the-difference-between-id-and-class/
+https://goo.gl/tMLMY0
+
+[Difference between id and name attributes in HTML ? stackoverflow 사이트]
+http://stackoverflow.com/questions/1397592/difference-between-id-and-name-attributes-in-html
+https://goo.gl/C7wdxp
+
+[Document Object Model ? WIKIPEDIA 사이트]
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://goo.gl/wbo65g
+
+[Beautiful Soup공식 사이트]
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://goo.gl/iEczPM
+
+[find_all() - Beautiful Soup공식 사이트]
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#find-all
+https://goo.gl/qutLnp
+
+[Searching by CSS class - Beautiful Soup공식 사이트]
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-by-css-class
+https://goo.gl/LguKtm
+
+[CSS Selector Reference ? w3schools 사이트]
+https://www.w3schools.com/cssref/css_selectors.asp
+https://goo.gl/x4xdsb
+
+[Pythonic way to create a long multi-line string ? stackoverflow 사이트]
+https://stackoverflow.com/questions/10660435/pythonic-way-to-create-a-long-multi-line-string
+https://goo.gl/lMgG42
+
+[Python BeautifulSoup extract text between element ? stackoverflow 사이트]
+https://stackoverflow.com/questions/16835449/python-beautifulsoup-extract-text-between-element
+https://goo.gl/VLpqY3
+
+[WHOIS 사이트= 한국인터넷진흥원 사이트]
+https://whois.kisa.or.kr/kor/main.jsp
+
+[Quickstart ? Requests 공식 페이지
+http://docs.python-requests.org/en/master/user/quickstart/
+https://goo.gl/V3o5jy
+
+[More complicated POST requests - Requests 공식 페이지]
+http://docs.python-requests.org/en/master/user/quickstart/#more-complicated-post-requests
+https://goo.gl/nSFLki
+
+[[판결] ‘웹사이트 무단 크롤링’ 소송… 잡코리아, 사람인에 승소 ? 법률신문 뉴스]
+https://www.lawtimes.co.kr/legal-news/Legal-News-View?Serial=98844&kind=AA
+https://goo.gl/ZDhtSd
+
+[법원 “무단 사이트 미러링은 위법”…임의 데이터 수집에 경종 ? 디지털 데일리]
+http://www.ddaily.co.kr/news/article.html?no=130822
+https://goo.gl/WhrnpV
+
+
+[12교시]
+[Python으로 쿠키런 운영하기 - Speaker Deck 사이트]
+https://speakerdeck.com/sgonv/pythoneuro-kukireon-unyeonghagi
+https://goo.gl/Q7P8YB
+
+[Brief History of The Selenium Project ? 셀레늄 공식 페이지]
+http://www.seleniumhq.org/docs/01_introducing_selenium.jsp#brief-history-of-the-selenium-project
+https://goo.gl/qjdR9h
+
+[Selenium Documentation ? 셀레늄 공식 페이지]
+http://www.seleniumhq.org/docs/
+
+[[ Selenium ] 웹서비스 테스트 자동화와는 별 상관없는 작업을 위해... ? 이빨까지인형님의 블로그]
+http://jeen.tistory.com/entry/Selenium-웹서비스-테스트-자동화와는-별-상관없는-작업을-위해 
+https://goo.gl/HFuuHS
+
+[파이어폭스 홈페이지]
+https://www.mozilla.org/ko/
+
+[파이어폭스 다운로드 페이지]
+https://www.mozilla.org/en-US/firefox/new/
+https://goo.gl/9mcSW
+
+[Getting Started ? 셀레늄 공식 홈페이지]
+http://selenium-python.readthedocs.io/getting-started.html
+https://goo.gl/ZC75Mn
+
+[Selenium using Python - Geckodriver executable needs to be in PATH ? stackoverflow 페이지]
+https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path
+https://goo.gl/ykEKvz
+
+[How to extract a Google link's href from search results with Selenium? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/35241230/how-to-extract-a-google-links-href-from-search-results-with-selenium
+https://goo.gl/gQQFPi
+
+[Retrieving parameters from a URL ? stackoverflow 페이지]
+https://stackoverflow.com/questions/5074803/retrieving-parameters-from-a-url
+https://goo.gl/QyxgtY
+
+[Open web in new tab Selenium + Python ? stackoverflow 페이지]
+https://stackoverflow.com/questions/28431765/open-web-in-new-tab-selenium-python
+https://goo.gl/NtuvR4
+
+[Is there a way to use PhantomJS in Python? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/13287490/is-there-a-way-to-use-phantomjs-in-python
+https://goo.gl/7Sfr6i
+
+[PhantomJS with Selenium error: Message: 'phantomjs' executable needs to be in PATH ? stackoverflow 사이트]
+https://stackoverflow.com/questions/37903536/phantomjs-with-selenium-error-message-phantomjs-executable-needs-to-be-in-pa
+https://goo.gl/EgfbYJ
+
+[python selenium google search example ? github 사이트]
+https://gist.github.com/azam-a/32b89944b98a3fd79d44ebfdac16b63d
+https://goo.gl/AjEJCh
+
+[How to wait until the page is loaded with Selenium for Python? ? stackoverflow 사이트]
+http://stackoverflow.com/questions/26566799/selenium-python-how-to-wait-until-the-page-is-loaded?
+https://goo.gl/V5WDyx
+
+[Selenium python internet explorer ? stackoverflow 사이트]
+https://stackoverflow.com/questions/24925095/selenium-python-internet-explorer 
+https://goo.gl/dwQrnn
+
+
+[13교시]
+[XPath Syntax]
+https://www.w3schools.com/xml/xpath_syntax.asp
+https://goo.gl/b5XbY8
+
+[pywinauto 홈페이지]
+https://pywinauto.github.io/
+
+[What is pywinauto ? Pywinauto 홈페이지]
+https://pywinauto.readthedocs.io/en/latest/
+https://goo.gl/aKh7kP
+
+[How do I select a folder in the SaveAs Dialog using pywinauto? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/9482019/how-do-i-select-a-folder-in-the-saveas-dialog-using-pywinauto
+https://goo.gl/cwuosQ
+
+[Open file from windows file dialog with python automatically ? stackoverflow 사이트]
+https://stackoverflow.com/questions/37027644/open-file-from-windows-file-dialog-with-python-automatically/37214623
+https://goo.gl/NBMDEq
+
+[pywinauto.controls.win32_controls ? pywinauto 공식홈페이지]
+https://pywinauto.github.io/docs/code/pywinauto.controls.win32_controls.html 
+https://goo.gl/Hkksoe
+
+[How to access the control identifiers in pywinauto ? stackoverflow 사이트]
+https://stackoverflow.com/questions/5039642/how-to-access-the-control-identifiers-in-pywinauto
+https://goo.gl/LauVAu
+
+[spy++ 를 사용해서 사용클래스 및 핸들 알아보기 ? 멱군! 프로그래밍을 하자님의 블로그]
+http://happyguy81.tistory.com/51
+https://goo.gl/uKeMye
+
+[pywinauto: How to select this dialog? Which spying tool to use? What information do I need on it? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/42213490/pywinauto-how-to-select-this-dialog-which-spying-tool-to-use-what-information
+https://goo.gl/VRZRdS
+
+[AutoHotKey 다운로드 페이지 ? 공식 홈페이지]
+https://autohotkey.com/download/
+
+[Review ? IT Central Station 사이트]
+https://www.itcentralstation.com/product_reviews/hpe-uft-qtp-review-33718-by-don-ingerson
+https://goo.gl/78F2KF
+
+[다운로드 페이지 ? MICRO FOCUS 사이트]
+https://software.microfocus.com/en-us/software/functional-testing-software-testing
+https://goo.gl/ynnoHa
+
+[How can I work with file uploads during a Webdriver test? ? StackExchange 사이트]
+https://sqa.stackexchange.com/questions/12851/how-can-i-work-with-file-uploads-during-a-webdriver-test
+https://goo.gl/QZBNzj
+
+[Using `Application.Start` and/or `Application.Connect` is better in a code generator ? github 사이트]
+https://github.com/pywinauto/SWAPY/issues/45
+https://goo.gl/Ga8ueD
+
+
+[14교시]
+[파일질라 홈페이지]
+https://filezilla-project.org/
+
+[zipfile ? Work with ZIP archives ? 파이썬 공식 사이트]
+https://docs.python.org/3/library/zipfile.html
+https://goo.gl/FozzxF
+
+[Extracting all the files of a selected extension from a zipped file [closed] ? stackoverflow 사이트]
+https://stackoverflow.com/questions/41965026/extracting-all-the-files-of-a-selected-extension-from-a-zipped-file
+https://goo.gl/bHN5ar
+
+[7zip CLI whitelist files to add by extension - stackoverflow 사이트]
+https://stackoverflow.com/questions/28636349/7zip-cli-whitelist-files-to-add-by-extension
+https://goo.gl/86AvEU
+
+[Batch command date and time in file name - stackoverflow 사이트]
+https://stackoverflow.com/questions/7727114/batch-command-date-and-time-in-file-name
+https://goo.gl/LWutB3
+
+[Running windows shell commands with python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/14894993/running-windows-shell-commands-with-python
+https://goo.gl/jcBGrB
+
+[subprocess ? 파이썬 공식 사이트]
+https://docs.python.org/2/library/subprocess.html
+https://goo.gl/sx3ffD
+
+[String literals ? 파이썬 공식 사이트]
+https://docs.python.org/2.0/ref/strings.html
+https://goo.gl/qzGfgQ
+
+[FTP upload files Python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/17438096/ftp-upload-files-python?
+https://goo.gl/QWGAXb
+
+[how to create a file name with the current date & time in python? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/10607688/how-to-create-a-file-name-with-the-current-date-time-in-python
+https://goo.gl/dMWUhs
+
+[Batch file to delete files older than N days]
+https://stackoverflow.com/questions/51054/batch-file-to-delete-files-older-than-n-days
+https://goo.gl/ftX6BV
+
+[datetime ? Basic date and time types ? 파이썬 공식 페이지]
+https://docs.python.org/3/library/datetime.html
+https://goo.gl/Ku7AcO
+
+[os ? Miscellaneous operating system interfaces ? 파이썬 공식 페이지]
+https://docs.python.org/3/library/os.html
+https://goo.gl/VYniCo
+
+[subprocess ? Subprocess management ? 파이썬 공식 페이지]
+https://docs.python.org/3/library/subprocess.html
+https://goo.gl/8fkoWw
+
+
+[15교시]
+[Top Python Math And Statistics Libraries ? PalRad 사이트]
+http://www.palrad.com/top-python-math-statistics-libraries-w-12007/
+https://goo.gl/LVW9nb
+
+[Your First Machine Learning Project in Python Step-By-Step - Machine Learning Mastery 사이트]
+http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://goo.gl/R8wzGv
+
+[An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples ? toptal 사이트]
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+https://goo.gl/VaEspK
+
+[TensorFlow Tutorial and Examples for Beginners with Latest API ? github 사이트]
+https://github.com/aymericdamien/TensorFlow-Examples
+https://goo.gl/RQwSCb
+
+[numpy 공식 사이트]
+https://docs.scipy.org/doc/
+
+[Numpy Reference Guide ? Numpy 공식 사이트]
+https://docs.scipy.org/doc/numpy/reference/
+https://goo.gl/Y3GCoE
+
+[SciPy Reference Guide ? SciPy 공식 사이트]
+https://docs.scipy.org/doc/scipy/reference/
+https://goo.gl/nDkjCK
+
+[SymPy 공식 홈페이지]
+http://docs.sympy.org/latest/index.html
+https://goo.gl/bv6AbM
+
+[pandas: powerful Python data analysis toolkit ? pandas 공식 사이트]
+https://pandas.pydata.org/pandas-docs/stable/
+https://goo.gl/W2bTXK
+
+[What are the differences between Pandas and NumPy+SciPy in Python? [closed] ? stackoverflow 사이트]
+https://stackoverflow.com/questions/11077023/what-are-the-differences-between-pandas-and-numpyscipy-in-python?
+https://goo.gl/g8cpMG
+
+
+[16교시]
+[[Matlab / 매트랩] 매트랩 강의 14번째 - 4차 데이터 표현하기- Engineer-Agora님 블로그]
+http://engi-agora.tistory.com/37
+https://goo.gl/yprGFd
+
+[pylab_examples example code: simple_plot.py ? 공식 사이트]
+https://matplotlib.org/examples/pylab_examples/simple_plot.html
+https://goo.gl/ee9NQk
+
+[pylab_examples example code: equal_aspect_ratio.py ? 공식 사이트]
+https://matplotlib.org/examples/pylab_examples/equal_aspect_ratio.html
+https://goo.gl/94VHZe
+
+[show origin axis (x,y) in matplotlib plot ? stackoverflow 사이트]
+https://stackoverflow.com/questions/25689238/show-origin-axis-x-y-in-matplotlib-plot
+https://goo.gl/AouDzy
+
+[plotting different colors in matplotlib ? stackoverflow 사이트]
+https://stackoverflow.com/questions/16006572/plotting-different-colors-in-matplotlib
+https://goo.gl/AGJhUK
+
+[서비스 별 가격 차이 ? Plotly 사이트]
+https://plot.ly/products/cloud/?
+https://goo.gl/VmsKBX
+
+[Scatter Plots in Python ? 공식 사이트]
+https://plot.ly/python/line-and-scatter/
+https://goo.gl/BnE9ud
+
+[KeyError: 'plotly_domain' when using plotly to do scatter plot in python ? stackoverflow 사이트]
+https://stackoverflow.com/questions/34929778/keyerror-plotly-domain-when-using-plotly-to-do-scatter-plot-in-python
+https://goo.gl/7bbBu6
+
+[Offline Plots in Plotly in Python ? 공식 사이트]
+https://plot.ly/python/offline/
+https://goo.gl/J9R9gM
+
+[Getting Started with Plotly for Python ? 공식 사이트]
+https://plot.ly/python/getting-started/
+https://goo.gl/hUybXa
+
+
+[17교시]
+[TV 소리를 착각해 장난감 주문한 인공지능 스피커 에코 ? The Gear]
+http://thegear.co.kr/13718
+https://goo.gl/JPNW3m
+
+[모두를 위한 딥러닝 강좌 ? 유투브 사이트]
+https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+https://goo.gl/OwRpHZ
+
+[Fourier Transform ? OpenCV 사이트]
+http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html
+https://goo.gl/ztHD7C
+
+[TypeError: slice indices must be integers or None or have an __index__ method 에러 해결 ? stackoverflow 사이트]
+https://stackoverflow.com/questions/28272322/typeerror-slice-indices-must-be-integers-or-none-or-have-an-index-method
+https://goo.gl/Z4fRi1
+
+[numpy.linalg.lstsq ? SciPy 공식 사이트]
+https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.lstsq.html
+https://goo.gl/druJKH
+
+[Using Python (and R) to calculate Linear Regressions ? WARWICK 사이트]
+http://www2.warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/lin_reg/
+https://goo.gl/8LUaGp
+
+[scipy.stats.linregress ? SciPy 공식 사이트]
+https://docs.scipy.org/doc/scipy-0.19.0/reference/generated/scipy.stats.linregress.html
+https://goo.gl/MAuw9v
+
+[TensorFlow-Examples ? github 페이지]
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/2_BasicModels/linear_regression.py
+https://goo.gl/6RSNLz
+
+[matplotlib.pyplot.subplot ? matplotlib 공식 사이트]
+https://matplotlib.org/devdocs/api/_as_gen/matplotlib.pyplot.subplot.html
+https://goo.gl/2LsHGY
+
+
+[18교시]
+[HTML5 Tutorial ? w3schools 사이트]
+https://www.w3schools.com/html/default.asp
+https://goo.gl/xQiE76
+
+[[IIS+ASP.NET] 브라우저에서 웹 사이트 서버 오류 자세히 보기- 이러쿵저러쿵님의 블로그]
+http://ooz.co.kr/172
+https://goo.gl/XQuHYs
+
+
+[19교시]
+[Flask의 세계에 오신것을 환영합니다 ? flask-docs-kr 사이트]
+http://flask-docs-kr.readthedocs.io/ko/latest/index.html 
+https://goo.gl/iKYdxh
+
+[Flask vs. Django: Why Flask Might Be Better - codementor 사이트]?
+https://www.codementor.io/garethdwyer/flask-vs-django-why-flask-might-be-better-4xs7mdf8v
+https://goo.gl/pGt5wQ
+
+[Django vs Flask vs Pyramid: Choosing a Python Web Framework ? airfair 사이트]
+https://www.airpair.com/python/posts/django-flask-pyramid
+https://goo.gl/09Ek6w
+
+[웹서버를 사용하기 위해 어떤 프레임워크를 고를 것인가? - 삽질과 삽질속에..님 블로그]
+http://kmc5500.tistory.com/162
+https://goo.gl/tbRWdn
+
+[Welcome to Flask ? Flask 공식 사이트]
+http://flask.pocoo.org/docs/0.12/
+https://goo.gl/91j57k
+
+[Data from SQLITE to an HTML table in a Flask page ? stackoverflow 사이트]
+https://stackoverflow.com/questions/29525758/data-from-sqlite-to-an-html-table-in-a-flask-page
+https://goo.gl/5sFovu
+
+[Creating an HTML table with database values in Flask ? stackoverflow 사이트]
+https://stackoverflow.com/questions/42040379/creating-an-html-table-with-database-values-in-flask
+https://goo.gl/2QHjPK
+
+[(flask) python mysql - how to pass selected data though a for loop and return it? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/38540256/flask-python-mysql-how-to-pass-selected-data-though-a-for-loop-and-return-it
+https://goo.gl/zetTUJ
+
+[flask-d3-hello-world ? github 페이지]
+https://github.com/dfm/flask-d3-hello-world
+https://goo.gl/NK3Yhf
+
+[Simple d3.js Graph ? d3noob’s block 사이트]
+http://bl.ocks.org/d3noob/b3ff6ae1c120eea654b5
+https://goo.gl/mDmqzA
+
+[Draw D3 Simple Line chart With an Array ? stackoverflow 사이트]
+https://stackoverflow.com/questions/13654609/draw-d3-simple-line-chart-with-an-array
+https://goo.gl/32yxPa
+
+[Serving a matplotlib plot that follows good design practices using Flask - Data Viz Talk 사이트]
+http://dataviztalk.blogspot.kr/2016/01/serving-matplotlib-plot-that-follows.html
+https://goo.gl/en8Tm4
+
+
+[20교시]
+[Django 한글 문서 - Django 공식 사이트]
+https://docs.djangoproject.com/ko/2.0/
+https://goo.gl/aBy68X
+
+[장고 걸 사이트]
+https://tutorial.djangogirls.org/ko/django_start_project/
+https://goo.gl/W9ADXv
+
+[Build Your First Python and Django Application ? scotch 사이트]
+https://scotch.io/tutorials/build-your-first-python-and-django-application
+https://goo.gl/A5h9J5
+
+[장고 공식페이지]
+https://docs.djangoproject.com/
+https://goo.gl/tSLAUK
+
+[Using an ORM or plain SQL? [closed] ? stackoverflow 사이트]
+https://stackoverflow.com/questions/494816/using-an-orm-or-plain-sql
+https://goo.gl/UkAArg
+
+[Hibernate ORM Framework vs JDBC Pros and Cons [closed] ? stackoverflow 사이트]
+https://stackoverflow.com/questions/35955020/hibernate-orm-framework-vs-jdbc-pros-and-cons
+https://goo.gl/VzfgRG
+
+[ORM 의 장점과 단점 ? 가리사니 사이트]
+https://gs.saro.me/#!m=elec&jn=718
+https://goo.gl/ufzoJM
+
+[ORM은 안티패턴이다. - ORM is an anti-pattern. - Layered's 님의 블로그]
+http://layered.tistory.com/entry/ORM%EC%9D%80-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%8B%A4-ORM-is-an-antipattern
+https://goo.gl/mxbGYz
+
+[ORM의 사실과 오해 ? OKKY 사이트]
+https://okky.kr/article/286812
+https://goo.gl/K379AZ
+
+[Django vs. Model View Controller [closed] ? stackoverflow 사이트]
+https://stackoverflow.com/questions/6621653/django-vs-model-view-controller
+https://goo.gl/naDqvZ
+
+[Django MSSQL Database Backend ? 공식 사이트]
+https://django-mssql.readthedocs.io/en/latest/
+https://goo.gl/qryuQE
+
+[Django 1.9 with MSSQL as backend? ? reddit 사이트]
+https://www.reddit.com/r/Python/comments/4iq7zb/django_19_with_mssql_as_backend/
+https://goo.gl/QkC6Mw
+
+[django-pyodbc-azure ? github 사이트]
+https://github.com/michiya/django-pyodbc-azure
+https://goo.gl/EEFzgP
+
+[Integrating Django with a legacy database - 장고 공식 매뉴얼]
+https://docs.djangoproject.com/en/2.0/howto/legacy-databases/
+https://goo.gl/o663aL
+
+[Build Your First Python and Django Application ? scotch 사이트]
+https://scotch.io/tutorials/build-your-first-python-and-django-application
+https://goo.gl/A5h9J5
+
+[Integrating Django with a legacy database - 장고 공식 매뉴얼]
+https://docs.djangoproject.com/en/2.0/howto/legacy-databases/
+https://goo.gl/o663aL
+
+[장고 ORM과 쿼리셋(QuerySets)# - 장고걸 사이트]
+https://tutorial.djangogirls.org/ko/django_orm/
+https://goo.gl/FdS1S1
+
+[pandas with pyodbc - Nan error: [42S22] ERROR: Attribute 'QNAN' not found (31) (SQLExecDirectW) ? stackoverflow 사이트]
+https://stackoverflow.com/questions/36202976/pandas-with-pyodbc-nan-error-42s22-error-attribute-qnan-not-found-31
+https://goo.gl/UFRsY4
+
+[Models - 장고 공식 매뉴얼]
+https://docs.djangoproject.com/en/2.0/topics/db/models/
+https://goo.gl/gKqeJj
+
+[SQL Server add auto increment primary key to existing table ? stackoverflow 사이트]
+https://stackoverflow.com/questions/4862385/sql-server-add-auto-increment-primary-key-to-existing-table
+https://goo.gl/aj4j6R
+
+[Passing data from Django to D3 ? stackoverflow 사이트]
+https://stackoverflow.com/questions/26453916/passing-data-from-django-to-d3
+https://goo.gl/soM8QU
+
+[How to Return JSON-Encoded Response ? SIMPLE IS BETTER THAN COMPLEX 사이트]
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://goo.gl/qnJATh
+
+[JsonResponse objects ? 장고 공식 매뉴얼]
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
+https://goo.gl/CMB3ko
+
+[Better way to get type of a Javascript variable? ? stackoverflow 사이트]
+https://stackoverflow.com/questions/7390426/better-way-to-get-type-of-a-javascript-variable
+https://goo.gl/5hvemQ
+
+[Parse JSON string into an array ? stackoverflow 사이트]
+https://stackoverflow.com/questions/11461142/parse-json-string-into-an-array
+https://goo.gl/r1QG33
+
+[Passing data from Django to D3 ? stackoverflow사이트]
+https://stackoverflow.com/questions/26453916/passing-data-from-django-to-d3
+https://goo.gl/soM8QU
+
+[django-d3-example ? github 사이트]
+https://github.com/fgmacedo/django-d3-example
+https://goo.gl/mm2X7n
+
+
+[21교시]
+[The five orders of ignorance - CORVUS INTERNATION INC]
+http://www.corvusintl.com/CACM002-5OI.htm
+https://goo.gl/dNMtPg
+
+
+[부록]
+[Python IDE: The10 Best IDEs for Python Programmers ? noeticforce 사이트]
+http://noeticforce.com/best-python-ide-for-programmers-windows-and-mac
+https://goo.gl/7Zhtkx
+
+[12 Best Python IDE ? Dunebook 사이트]
+https://www.dunebook.com/best-python-ide-windows-mac/
+https://goo.gl/8giuue
+
+[PyCharm 다운로드 - Jet Brains 공식 페이지]
+https://www.jetbrains.com/pycharm/download/#section=windows
+https://goo.gl/ftUnBA
+
+[아톰 공식 홈]
+https://atom.io/
+
+[PlatformIO IDE Terminal 안내페이지 ? 아톰 공식 사이트]
+https://atom.io/packages/platformio-ide-terminal
+https://goo.gl/u0XceX
+
+[Visual Studio Code 홈]
+https://code.visualstudio.com/
+
