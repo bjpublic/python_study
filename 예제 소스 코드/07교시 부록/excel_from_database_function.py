@@ -1,6 +1,7 @@
 ﻿from openpyxl import Workbook
 from openpyxl import load_workbook
-from openpyxl.compat import range
+# 모듈 호환 에러가 나서 주석 처리 합니다.
+#from openpyxl.compat import range
 import pyodbc
 
 # 워크북을 하나 만듭니다.
