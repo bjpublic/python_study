@@ -1,6 +1,7 @@
 ﻿from openpyxl import Workbook
 from openpyxl import load_workbook
-from openpyxl.compat import range
+# 모듈 호환 에러가 나서 주석 처리 합니다.
+#from openpyxl.compat import range
  
 # 엑셀을 읽어 옵니다.
 wb_read = load_workbook(filename = 'result.xlsx')
